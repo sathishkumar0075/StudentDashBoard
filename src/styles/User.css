@@ -1,0 +1,21 @@
+.student-profile-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.student-info {
+    line-height: 1.6;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.summa{
+    margin-top: 250px;
+}
