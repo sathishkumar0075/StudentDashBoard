@@ -1,5 +1,7 @@
- git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+## First
+```bash
+git clone https://github.com/sathishkumar0075/StudentDashBoard.git
+```
 ### Backend Setup
 Navigate to the backend directory:
 
@@ -46,7 +48,7 @@ Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 React.js
 Node.js
 Express
