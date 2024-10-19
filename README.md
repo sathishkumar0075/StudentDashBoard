@@ -34,32 +34,33 @@ Start the development server:
 npm run start
 ```
 ## Usage
-Register: Create a new account by providing your name, roll number, department, branch, email, and password.
-Login: Use your credentials to log into the application.
-Profile: View your profile to see your academic performance, including GPA and CGPA.
-Contributing
-Contributions are welcome! Please follow these steps:
+- **Register**: Create a new account by providing your name, roll number, department, branch, email, and password.
+- **Login**: Use your credentials to log into the application.
+- **Profile**: View your profile to see your academic performance, including GPA and CGPA.
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add new feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+
+## Contributing
+- Contributions are welcome! Please follow these steps:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature/YourFeature).
+- Make your changes and commit them (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature/YourFeature).
+- Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-React.js
-Node.js
-Express
-MongoDB
-Chart.js
-markdown
-Copy code
+- **React.js**
+- **Node.js**
+- **Express**
+- **MongoDB**
+- **Chart.js**
+
 
 ### Instructions
-- Replace your-username and your-repo-name in the clone command with your actual GitHub username and repository name.
-- Update any sections that are specific to your project, especially in the Tech Stack and Acknowledgments.
-- Save this content as README.md in your project directory.
+- **Replace** your-username and your-repo-name in the clone command with your actual GitHub username and repository name.
+- **Update** any sections that are specific to your project, especially in the Tech Stack and Acknowledgments.
+- **Save** this content as README.md in your project directory.
 
 This structure provides a comprehensive overview of your project for potential users or contributors.
