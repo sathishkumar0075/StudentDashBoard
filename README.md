@@ -34,9 +34,9 @@ Start the development server:
 npm run start
 ```
 ## Usage
-**Register**: Create a new account by providing your name, roll number, department, branch, email, and password.
-**Login**: Use your credentials to log into the application.
-**Profile**: View your profile to see your academic performance, including GPA and CGPA.
+Register: Create a new account by providing your name, roll number, department, branch, email, and password.
+Login: Use your credentials to log into the application.
+Profile: View your profile to see your academic performance, including GPA and CGPA.
 Contributing
 Contributions are welcome! Please follow these steps:
 
